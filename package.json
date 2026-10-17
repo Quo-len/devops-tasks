@@ -1,0 +1,20 @@
+{
+  "name": "devops-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Quo-len/devops-tasks#readme",
+  "bugs": {
+    "url": "https://github.com/Quo-len/devops-tasks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quo-len/devops-tasks.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
