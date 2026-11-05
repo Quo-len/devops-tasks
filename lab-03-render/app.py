@@ -2,7 +2,7 @@ import os
 from flask import Flask, Response
 
 app = Flask(__name__)
-GREETING = "Hello from Render!"
+GREETING = "Hello from Render! Група М-25."
 
 
 @app.get("/")
