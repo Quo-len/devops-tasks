@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pem
+*.key
+.env
+.env.*
+*.docx.bak
+~$*.docx
+*.pdf
+*.docx
