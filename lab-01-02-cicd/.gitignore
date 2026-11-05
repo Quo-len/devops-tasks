@@ -1,0 +1,9 @@
+# .gitignore
+node_modules/
+.vercel
+.env
+.env.*
+*.docx.bak
+~$*.docx
+*.pdf
+*.docx

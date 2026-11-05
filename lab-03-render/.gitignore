@@ -1,0 +1,11 @@
+.venv/
+venv/
+.tools/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.docx.bak
+~$*.docx
+*.pdf
+*.docx
