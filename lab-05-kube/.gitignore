@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+~$*.docx
+.env
+.env.*
+*.docx.bak
+~$*.docx
+*.pdf
+*.docx
